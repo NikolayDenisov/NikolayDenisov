@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nikolay Denisov.
+- Hi, I’m Nikolay Denisov.
 - My curent position - CTO in software company
-- 👀 I’m interested in Information technologies
-- 🌱 I’m currently learning Machine Learning, Product managment, Software architecture
+- I’m interested in Information technologies
+- I’m currently learning IoT, Python, Docker
