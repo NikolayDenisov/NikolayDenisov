@@ -1,4 +1,4 @@
 - Hi, I’m Nikolay Denisov.
-- My curent position - CTO in software company
+- My curent position - senior backend developer
 - I’m interested in Information technologies
-- I’m currently learning IoT, Python, Docker
+- I’m currently learning IoT
